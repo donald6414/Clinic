@@ -1,0 +1,39 @@
+.awesome-size {
+    font-size: 30px;
+}
+
+.contact {
+    background-image: url('../img/form_bg.jpg');
+    width: auto;
+}
+
+.contact-title {
+    margin-top: 20px;
+}
+
+.contact-form {
+    background-color: white;
+}
+
+.section-height {
+    /* height: 100vh; */
+}
+
+.departments {
+    margin-top: 100px;
+}
+
+.login-center {
+    margin-top: 25vh;
+}
+
+@media screen and (max-width:640px) {
+    .logo {
+        width: 70px;
+        height: auto;
+    }
+    .about-img {
+        width: 90%;
+        height: auto;
+    }
+}
